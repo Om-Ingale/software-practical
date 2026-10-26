@@ -1,0 +1,217 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Q7 DFD" id="d1">
+    <mxGraphModel dx="2289" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1536" pageHeight="1024" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=0;align=center;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="393" width="1516" x="10" y="3" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=32;fontStyle=1;align=center;verticalAlign=middle;" value="Q7. Hostel Management System – Level 0 DFD (Context Diagram)" vertex="1">
+          <mxGeometry height="73" width="1516" x="10" y="3" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=0;align=center;verticalAlign=middle;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="393" width="1516" x="10" y="3" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=0;align=center;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="596" width="1516" x="10" y="412" as="geometry" />
+        </mxCell>
+        <mxCell id="c6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=32;fontStyle=1;align=center;verticalAlign=middle;" value="Q7. Hostel Management System – Level 1 DFD (Detailed Diagram)" vertex="1">
+          <mxGeometry height="63" width="1516" x="10" y="412" as="geometry" />
+        </mxCell>
+        <mxCell id="c7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=0;align=center;verticalAlign=middle;fillColor=none;shadow=1;" value="" vertex="1">
+          <mxGeometry height="596" width="1516" x="10" y="412" as="geometry" />
+        </mxCell>
+        <mxCell id="c8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=34;fontStyle=1;align=center;verticalAlign=middle;" value="Student" vertex="1">
+          <mxGeometry height="131" width="263" x="140" y="167" as="geometry" />
+        </mxCell>
+        <mxCell id="c9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=0;align=center;verticalAlign=middle;arcSize=60;absoluteArcSize=1;" value="" vertex="1">
+          <mxGeometry height="259" width="352" x="953" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="c10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=26;fontStyle=1;align=center;verticalAlign=middle;fillColor=none;" value="0" vertex="1">
+          <mxGeometry height="62" width="352" x="953" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="c11" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;startArrow=none;startFill=1;strokeWidth=1.5;endSize=7;startSize=7;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="953" y="167" as="sourcePoint" />
+            <mxPoint x="1305" y="167" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=34;fontStyle=1;align=center;verticalAlign=middle;fillColor=none;" value="Hostel&lt;br&gt;Management&lt;br&gt;System" vertex="1">
+          <mxGeometry height="197" width="352" x="953" y="167" as="geometry" />
+        </mxCell>
+        <mxCell id="c13" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;startArrow=none;startFill=1;strokeWidth=2;endSize=6;startSize=7;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="403" y="201" as="sourcePoint" />
+            <mxPoint x="953" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c14" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;startArrow=none;startFill=1;strokeWidth=2;endSize=6;startSize=7;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="953" y="269" as="sourcePoint" />
+            <mxPoint x="403" y="269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c15" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=22;fontStyle=0;spacing=0;spacingLeft=0;spacingRight=0;" value="Admission Application,&lt;br&gt;Room Request, Fee Payment,&lt;br&gt;Complaint Details" vertex="1">
+          <mxGeometry height="91" width="500" x="428" y="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c16" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=22;fontStyle=0;spacing=0;spacingLeft=0;spacingRight=0;" value="Admission &amp; Room Details,&lt;br&gt;Fee Receipt, Complaint Status" vertex="1">
+          <mxGeometry height="63" width="500" x="428" y="276.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=34;fontStyle=1;align=center;verticalAlign=middle;" value="Student" vertex="1">
+          <mxGeometry height="326" width="215" x="70" y="564" as="geometry" />
+        </mxCell>
+        <mxCell id="c18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;arcSize=26;absoluteArcSize=1;" value="1.0&lt;br&gt;Register&lt;br&gt;Admission" vertex="1">
+          <mxGeometry height="108" width="206" x="643" y="493" as="geometry" />
+        </mxCell>
+        <mxCell id="c19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;arcSize=26;absoluteArcSize=1;" value="2.0&lt;br&gt;Allocate&lt;br&gt;Room" vertex="1">
+          <mxGeometry height="108" width="206" x="643" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="c20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;arcSize=26;absoluteArcSize=1;" value="3.0&lt;br&gt;Process&lt;br&gt;Fee Payment" vertex="1">
+          <mxGeometry height="112" width="206" x="643" y="738" as="geometry" />
+        </mxCell>
+        <mxCell id="c21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;arcSize=26;absoluteArcSize=1;" value="4.0&lt;br&gt;Handle&lt;br&gt;Complaints" vertex="1">
+          <mxGeometry height="114" width="206" x="643" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="c22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;" value="D1" vertex="1">
+          <mxGeometry height="66" width="70" x="1141" y="513" as="geometry" />
+        </mxCell>
+        <mxCell id="c23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;" value="Student Records" vertex="1">
+          <mxGeometry height="66" width="255" x="1211" y="513" as="geometry" />
+        </mxCell>
+        <mxCell id="c24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;" value="D2" vertex="1">
+          <mxGeometry height="68" width="70" x="1141" y="636" as="geometry" />
+        </mxCell>
+        <mxCell id="c25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;" value="Room Records" vertex="1">
+          <mxGeometry height="68" width="255" x="1211" y="636" as="geometry" />
+        </mxCell>
+        <mxCell id="c26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;" value="D3" vertex="1">
+          <mxGeometry height="67" width="70" x="1141" y="763" as="geometry" />
+        </mxCell>
+        <mxCell id="c27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;" value="Fee Records" vertex="1">
+          <mxGeometry height="67" width="255" x="1211" y="763" as="geometry" />
+        </mxCell>
+        <mxCell id="c28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;" value="D4" vertex="1">
+          <mxGeometry height="69" width="70" x="1141" y="885" as="geometry" />
+        </mxCell>
+        <mxCell id="c29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;" value="Complaint Records" vertex="1">
+          <mxGeometry height="69" width="255" x="1211" y="885" as="geometry" />
+        </mxCell>
+        <mxCell id="c30" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;startArrow=none;startFill=1;strokeWidth=2;endSize=6;startSize=7;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195" y="535" />
+            </Array>
+            <mxPoint x="195" y="564" as="sourcePoint" />
+            <mxPoint x="643" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c31" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;startArrow=none;startFill=1;strokeWidth=2;endSize=6;startSize=7;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="643" y="578" as="sourcePoint" />
+            <mxPoint x="285" y="578" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c32" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;startArrow=none;startFill=1;strokeWidth=2;endSize=6;startSize=7;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="653" as="sourcePoint" />
+            <mxPoint x="643" y="653" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c33" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;startArrow=none;startFill=1;strokeWidth=2;endSize=6;startSize=7;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="643" y="691" as="sourcePoint" />
+            <mxPoint x="285" y="691" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c34" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;startArrow=none;startFill=1;strokeWidth=2;endSize=6;startSize=7;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="779" as="sourcePoint" />
+            <mxPoint x="643" y="779" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c35" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;startArrow=none;startFill=1;strokeWidth=2;endSize=6;startSize=7;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="643" y="821" as="sourcePoint" />
+            <mxPoint x="285" y="821" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c36" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;startArrow=none;startFill=1;strokeWidth=2;endSize=6;startSize=7;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="907" as="sourcePoint" />
+            <mxPoint x="643" y="907" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c37" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;startArrow=none;startFill=1;strokeWidth=2;endSize=6;startSize=7;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195" y="948" />
+            </Array>
+            <mxPoint x="643" y="948" as="sourcePoint" />
+            <mxPoint x="195" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c38" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;startArrow=none;startFill=1;strokeWidth=2;endSize=6;startSize=7;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="849" y="546" as="sourcePoint" />
+            <mxPoint x="1141" y="546" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c39" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;startArrow=none;startFill=1;strokeWidth=2;endSize=6;startSize=7;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="849" y="666" as="sourcePoint" />
+            <mxPoint x="1141" y="666" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c40" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;startArrow=none;startFill=1;strokeWidth=2;endSize=6;startSize=7;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="849" y="793" as="sourcePoint" />
+            <mxPoint x="1141" y="793" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c41" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;startArrow=none;startFill=1;strokeWidth=2;endSize=6;startSize=7;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="849" y="916" as="sourcePoint" />
+            <mxPoint x="1141" y="916" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c42" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=21;fontStyle=0;spacing=0;spacingLeft=0;spacingRight=0;" value="Admission Application" vertex="1">
+          <mxGeometry height="33" width="340" x="295" y="500.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c43" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=21;fontStyle=0;spacing=0;spacingLeft=0;spacingRight=0;" value="Admission Details" vertex="1">
+          <mxGeometry height="33" width="340" x="303" y="548.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c44" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=21;fontStyle=0;spacing=0;spacingLeft=0;spacingRight=0;" value="Room Request / Preference" vertex="1">
+          <mxGeometry height="33" width="340" x="310" y="615.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c45" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=21;fontStyle=0;spacing=0;spacingLeft=0;spacingRight=0;" value="Room Allocation Details" vertex="1">
+          <mxGeometry height="33" width="340" x="310" y="660.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c46" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=21;fontStyle=0;spacing=0;spacingLeft=0;spacingRight=0;" value="Fee Payment Details" vertex="1">
+          <mxGeometry height="33" width="340" x="304" y="744.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c47" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=21;fontStyle=0;spacing=0;spacingLeft=0;spacingRight=0;" value="Fee Receipt" vertex="1">
+          <mxGeometry height="33" width="340" x="302" y="786.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c48" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=21;fontStyle=0;spacing=0;spacingLeft=0;spacingRight=0;" value="Complaint Details" vertex="1">
+          <mxGeometry height="33" width="340" x="299" y="871.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c49" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=21;fontStyle=0;spacing=0;spacingLeft=0;spacingRight=0;" value="Complaint Status" vertex="1">
+          <mxGeometry height="33" width="340" x="292" y="913.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c50" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=21;fontStyle=0;spacing=0;spacingLeft=0;spacingRight=0;" value="Student Details" vertex="1">
+          <mxGeometry height="33" width="340" x="824" y="506.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c51" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=21;fontStyle=0;spacing=0;spacingLeft=0;spacingRight=0;" value="Room Allocation Details" vertex="1">
+          <mxGeometry height="33" width="340" x="822" y="627.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c52" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=21;fontStyle=0;spacing=0;spacingLeft=0;spacingRight=0;" value="Payment Details" vertex="1">
+          <mxGeometry height="33" width="340" x="816" y="757.5" as="geometry" />
+        </mxCell>
+        <mxCell id="c53" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=21;fontStyle=0;spacing=0;spacingLeft=0;spacingRight=0;" value="Complaint Details" vertex="1">
+          <mxGeometry height="33" width="340" x="817" y="880.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
